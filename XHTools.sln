@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.SocketTool", "XHTools.SocketTool\XHTools.SocketTool.csproj", "{E0A40FB3-09D1-49E1-B743-FDCCD46798F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.ComTool", "XHTools.ComTool\XHTools.ComTool.csproj", "{62BEEDF8-C422-4FD6-8CD8-D3665A4A8DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.Domain", "XHTools.Domain\XHTools.Domain.csproj", "{2AC875BD-29D0-4AAC-86CC-57CBC505F45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.BLL", "XHTools.BLL\XHTools.BLL.csproj", "{0A7C77F7-49BE-45DC-93B0-FE9E340AEE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.DAL", "XHTools.DAL\XHTools.DAL.csproj", "{F21F4259-A08B-4DD1-934B-EDB975810AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.Model", "XHTools.Model\XHTools.Model.csproj", "{A2C960D0-FA6F-4352-BC97-159812D36639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHTools.Common", "XHTools.Common\XHTools.Common.csproj", "{B582343F-0401-4FF4-AF23-C53B30F5721F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A40FB3-09D1-49E1-B743-FDCCD46798F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A40FB3-09D1-49E1-B743-FDCCD46798F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A40FB3-09D1-49E1-B743-FDCCD46798F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A40FB3-09D1-49E1-B743-FDCCD46798F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BEEDF8-C422-4FD6-8CD8-D3665A4A8DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BEEDF8-C422-4FD6-8CD8-D3665A4A8DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BEEDF8-C422-4FD6-8CD8-D3665A4A8DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BEEDF8-C422-4FD6-8CD8-D3665A4A8DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC875BD-29D0-4AAC-86CC-57CBC505F45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC875BD-29D0-4AAC-86CC-57CBC505F45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC875BD-29D0-4AAC-86CC-57CBC505F45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC875BD-29D0-4AAC-86CC-57CBC505F45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7C77F7-49BE-45DC-93B0-FE9E340AEE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7C77F7-49BE-45DC-93B0-FE9E340AEE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7C77F7-49BE-45DC-93B0-FE9E340AEE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7C77F7-49BE-45DC-93B0-FE9E340AEE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21F4259-A08B-4DD1-934B-EDB975810AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21F4259-A08B-4DD1-934B-EDB975810AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21F4259-A08B-4DD1-934B-EDB975810AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21F4259-A08B-4DD1-934B-EDB975810AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C960D0-FA6F-4352-BC97-159812D36639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C960D0-FA6F-4352-BC97-159812D36639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C960D0-FA6F-4352-BC97-159812D36639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C960D0-FA6F-4352-BC97-159812D36639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B582343F-0401-4FF4-AF23-C53B30F5721F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B582343F-0401-4FF4-AF23-C53B30F5721F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B582343F-0401-4FF4-AF23-C53B30F5721F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B582343F-0401-4FF4-AF23-C53B30F5721F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
