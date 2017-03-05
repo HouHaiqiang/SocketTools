@@ -3,3 +3,13 @@ XHTools.BLL/bin
 XHTools.BLL/obj
 XHTools.Common/bin
 XHTools.Common/obj
+XHTools.ComTool/bin
+XHTools.ComTool/obj
+XHTools.DAL/bin
+XHTools.DAL/obj
+XHTools.Domain/bin
+XHTools.Domain/obj
+XHTools.Model/bin
+XHTools.Model/obj
+XHTools.SocketTool/bin
+XHTools.SocketTool/obj
